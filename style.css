@@ -41,3 +41,8 @@ h4 {
 .recipe-author {
     text-align: center;
 }
+
+ul li {
+    list-style-type: square;
+    list-style-position: outside;
+}

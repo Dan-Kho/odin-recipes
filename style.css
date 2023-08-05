@@ -40,9 +40,14 @@ h4 {
 
 .recipe-author {
     text-align: center;
+    text-decoration: none;
 }
 
 ul li {
     list-style-type: square;
     list-style-position: outside;
+}
+
+a {
+    text-decoration: none;
 }

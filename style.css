@@ -73,6 +73,11 @@ a {
     text-decoration: none;
 }
 
+button a {
+    background-color: #C2E5F2;
+    color: black;
+}
+
 .homepage-container {
     padding: 15px;
     margin: 10px;
@@ -87,6 +92,7 @@ a {
 button {
     padding: 10px;
     color: #ffffff;
+    background-color: #C2E5F2;
 }
 
 p {

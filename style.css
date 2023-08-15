@@ -5,23 +5,26 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     line-height: 105%;
+    /* border: 2px solid red; */
 }
 
 .recipe-img {
     height: auto;
-    width: 30%;
+    width: 35%;
 }
 
 .img-centered .recipe-img {
     display: block;
-    margin: auto;
+    margin: 10px auto;
+    padding: 10px;
 }
 
 .page-title {
     font-size: 45px;
     font-weight: 700;
     text-align: center;
-    line-height: 10%;
+    padding: 10px;
+    margin: 0px auto 10px;
 }
 
 h2 {
@@ -50,4 +53,20 @@ ul li {
 
 a {
     text-decoration: none;
+}
+
+.homepage-container {
+    padding: 15px;
+    margin: 10px;
+}
+
+.button-container {
+    margin: 10px auto 0px;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    color: #ffffff;
 }

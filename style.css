@@ -17,6 +17,7 @@
     display: block;
     margin: 10px auto;
     padding: 10px;
+    border-radius: 50px;
 }
 
 .page-title {

@@ -1,7 +1,7 @@
 /* style.css */
 
 * {
-    background-color: #ebe8e8;
+    background-color: #FAEDCA;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     line-height: 105%;
@@ -75,7 +75,7 @@ a {
 }
 
 button a {
-    background-color: #C2E5F2;
+    background-color: #C1DBB3;
     color: black;
 }
 
@@ -93,7 +93,7 @@ button a {
 button {
     padding: 10px;
     color: #ffffff;
-    background-color: #C2E5F2;
+    background-color: #C1DBB3;
     border-radius: 10px;
 }
 

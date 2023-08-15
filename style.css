@@ -24,7 +24,7 @@
     font-weight: 700;
     text-align: center;
     padding: 10px;
-    margin: 0px auto 10px;
+    margin: 0px auto;
 }
 
 h2 {
@@ -33,17 +33,25 @@ h2 {
     text-decoration: underline;
     line-height: 75%;
     text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding: 10px;
 }
 
 h4 {
     font-size: 20px;
     text-decoration: underline;
-    line-height: 75%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 0px 15px;
 }
 
 .recipe-author {
     text-align: center;
     text-decoration: none;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 5px;
 }
 
 ul li {
@@ -69,4 +77,10 @@ a {
 button {
     padding: 10px;
     color: #ffffff;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px 15px;
 }

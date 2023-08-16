@@ -1,2 +1,2 @@
 # HTML Recipe Site
-Created a site that included a homepage that linked to three different recipes. Each recipe page contains the name, author, an image, description, ingredient list, and directions. They also link back to the homepage at the very bottom of each recipe. A basic html design with no styling.
+Created a site that included a homepage that linked to three different recipes. Each recipe page contains the name, author, an image, description, ingredient list, and directions. They also link back to the homepage at the very bottom of each recipe. A basic html design with minimal styling.

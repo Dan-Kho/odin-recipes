@@ -74,15 +74,12 @@ a {
     text-decoration: none;
 }
 
-button a {
-    background-color: #C1DBB3;
-    color: black;
-}
-
 .homepage-container {
     padding: 15px;
     margin: 10px;
 }
+
+/* Button */
 
 .button-container {
     margin: 10px auto 0px;
@@ -95,6 +92,22 @@ button {
     color: #ffffff;
     background-color: #C1DBB3;
     border-radius: 10px;
+}
+
+button a {
+    background-color: #C1DBB3;
+    color: black;
+}
+
+/* Button Hover */
+
+button:hover {
+    background-color: #7ebc89;
+}
+
+button:hover a {
+    background-color: #7ebc89;
+    color: #000000;
 }
 
 p {

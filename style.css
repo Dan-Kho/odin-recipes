@@ -103,6 +103,7 @@ button a {
 
 button:hover {
     background-color: #7ebc89;
+    box-shadow: 2px 2px 2px 1px gray;
 }
 
 button:hover a {

@@ -69,16 +69,22 @@ h4 {
 ul {
     margin-top: 0px;
     margin-bottom: 10px;
+    background-color: #C1DBB3;
+    border-radius: 10px;
 }
 
 ol {
     margin-top: 0px;
     margin-bottom: 10px;
+    background-color: #C1DBB3;
+    border-radius: 10px;
 }
 
 ul li {
     list-style-type: square;
     list-style-position: outside;
+    background-color: #C1DBB3;
+    border-radius: 10px;
 }
 
 /* Paragraphs */
@@ -90,7 +96,14 @@ a {
 p {
     margin-top: 10px;
     margin-bottom: 10px;
-    padding: 0px 15px;
+    padding: 5px 15px;
+    background-color: #C1DBB3;
+    border-radius: 10px;
+}
+
+strong {
+    background-color: #C1DBB3;
+    border-radius: 10px;
 }
 
 /* Button */

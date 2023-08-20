@@ -87,6 +87,11 @@ ul li {
     border-radius: 10px;
 }
 
+ol li {
+    background-color: #C1DBB3;
+    border-radius: 10px;
+}
+
 /* Paragraphs */
 
 a {
